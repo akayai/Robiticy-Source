@@ -1,0 +1,11 @@
+{
+  "name": "sabd",
+  "version": "0.0.1",
+  "description": "test discord bot",
+  "main": "bot.js",
+  "author": "Akayai",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
